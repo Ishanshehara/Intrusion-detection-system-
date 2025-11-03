@@ -42,11 +42,4 @@ Notes
 - The repository currently stores a small SQLite DB (`ids_alerts.db`) and `alerts.log` in the project folder. If you don't want these tracked in Git, consider adding them to `.gitignore`.
 - If you need help running or testing a specific component (GUI, terminal UI, simulator), open an issue or message me with the specific file name and desired behavior.
 
-Contact / Author
-- Repository owner: Ishanshehara
 
-License
-- Add a license file if you plan to make this public (e.g., `LICENSE` with MIT or Apache-2.0).
-
---
-Generated on 2025-11-03
